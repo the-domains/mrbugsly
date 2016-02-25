@@ -1,0 +1,28 @@
+name: mrbugsly
+favicon: null
+layout_spectrum: 0.7246570901479572
+typography_spectrum: 0.8404039549641311
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7045574018266052
+  lightness: 0.36805874737910926
+  saturation: 0.7066036625765264
+  rhythmicContrast: 0.598756126826629
+purpose: []
